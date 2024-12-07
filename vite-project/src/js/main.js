@@ -1,5 +1,6 @@
-import './style.scss'
-import javascriptLogo from './javascript.svg'
+import '../styles/style.scss'
+// import '../styles/style'
+import javascriptLogo from '../javascript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
 
